@@ -25,6 +25,12 @@ It becomes matter antimatter coupling.
 
 Quantum entanglement is nothing but duality.
 
-Wave form of high frequency reaches to certain level feels like matter. And very nature of creation is dual so that annihilation is easy and zero sum is maintained.
+Wave form of low frequency reaches to certain level feels like matter. And very nature of creation is dual so that annihilation is easy and zero sum is maintained.
+
+If you define a position of one quantum particle as del x1, you know frequency is same so:
+
+<del x1 * del x2 > = 1/del lambda^2.
+
+So you can deduce the uncertainty of particle 2 from the uncertainty of position for particle 1.
 
 **&copy; Technocraft Physics 2026. All Rights Reserved.**
